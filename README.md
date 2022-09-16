@@ -1,6 +1,6 @@
 # paginaWebMercado
 
-#Realizei esse projeto com o intuito de avançar nos estudos de HTML/CSS, e também para adicionar ao meu portifólio.
+Realizei este projeto com o intuito de, além de avançar nos estudos de HTML/CSS, também adicionar ao meu portifólio.
 
 ## tecnologias utilizadas: 
 
